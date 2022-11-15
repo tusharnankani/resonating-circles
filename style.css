@@ -39,3 +39,29 @@ body {
         opacity: 0;
     }
 }
+
+footer {
+    top: 95vh;
+    position: sticky;
+    user-select: none;
+    text-align: center;
+    font-size: 0.8rem;
+    font-family: Roboto, sans-serif;
+    color: #898f77;
+    opacity: 0; /* initial set to zero such that after animation it doesn't show up */
+    animation: disappear 10s ease-out; /* name duration timing-function delay iteration-count direction fill-mode; */
+}
+
+@keyframes disappear {
+    0% {
+        opacity: 1;
+    }
+
+    75% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
