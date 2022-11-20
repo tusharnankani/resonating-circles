@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">&nbsp;·&nbsp; A fidgeting tool to calm myself down &nbsp;·&nbsp;</p>
-<p align="center"><a href="https://tusharnankani.github.io/">Resonating Circles</a></p>
+<p align="center"><a href="https://tusharnankani.github.io/resonating-circles">Resonating Circles</a></p>
 
 <br />
 <br />
